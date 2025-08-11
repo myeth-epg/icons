@@ -157,7 +157,9 @@
 "my408.png",
 "my409.png",
 "my410.png",
-
+"Hoy76.png",
+"Hoy77.png",
+"Hoy78.png",
      // Add more filenames here
    ]
 
