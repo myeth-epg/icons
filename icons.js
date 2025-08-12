@@ -161,7 +161,7 @@
 "hoy77.png",
 "hoy78.png",
 "t01.png",
-"t02_nhk.png",
+"t02.png",
 "t03.png",
 "t04.png",
 "t05.png",
@@ -177,6 +177,9 @@
 "t15.png",
 "t16.png",
 "t17.png",
+"t18.png",
+"t19.png",
+"t20.png",
 
 
      // Add more filenames here
