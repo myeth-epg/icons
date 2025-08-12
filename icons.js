@@ -160,6 +160,24 @@
 "hoy76.png",
 "hoy77.png",
 "hoy78.png",
+"t01.png",
+"t02_nhk.png",
+"t03.png",
+"t04.png",
+"t05.png",
+"t06.png",
+"t07.png",
+"t08.png",
+"t09.png",
+"t10.png",
+"t11.png",
+"t12.png",
+"t13.png",
+"t14.png",
+"t15.png",
+"t16.png",
+"t17.png",
+
 
      // Add more filenames here
    ]
