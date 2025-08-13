@@ -193,7 +193,13 @@
 "t31.png",
 "t32.png",
 "t33.png",
-
+"t34.png",
+"t35.png",
+"t36.png",
+"t37.png",
+"t38.png",
+"t39.png",
+"t40.png",
 
 
 
