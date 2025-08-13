@@ -180,6 +180,21 @@
 "t18.png",
 "t19.png",
 "t20.png",
+"t21.png",
+"t22.png",
+"t23.png",
+"t24.png",
+"t25.png",
+"t26.png",
+"t27.png",
+"t28.png",
+"t29.png",
+"t30.png",
+"t31.png",
+"t32.png",
+"t33.png",
+
+
 
 
      // Add more filenames here
