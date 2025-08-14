@@ -225,8 +225,28 @@
 "t38.png",
 "t39.png",
 "t40.png",
-
-
+"t40.png",
+"rt31.png",
+"rt32.png",
+"rt33.png",
+"rt34.png",
+"rt35.png",
+"rt36.png",
+"tvb01.png",
+"tvb02.png",
+"tvb03.png",
+"tvb04.png",
+"tvb05.png",
+"tvb06.png",
+"tvba05.png",
+"tvba06.png",
+"tvba07.png",
+"tvba08.png",
+"tvba09.png",
+"tvba011.png"
+"tvba12.png"
+"tvba17.png"
+"tvba67.png"
 
      // Add more filenames here
    ]
