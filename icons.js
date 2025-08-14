@@ -247,6 +247,7 @@
 "tvba12.png"
 "tvba17.png"
 "tvba67.png"
+"ic603.png"
 
      // Add more filenames here
    ]
