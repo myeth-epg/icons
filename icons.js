@@ -418,6 +418,8 @@
 "tvba17.png"
 "tvba67.png"
 "ic603.png"
+"黄金翡翠台.png"
+"翡翠台.png"
 
      // Add more filenames here
    ]
