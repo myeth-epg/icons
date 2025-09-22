@@ -302,7 +302,7 @@
 "t107.png",
 "t108.png",
 "t109.png",
-"t110.png",
+"t11TVBS歡樂台.png",
 "t111.png",
 "t119.png",
 "t120.png",
