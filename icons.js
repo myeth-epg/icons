@@ -417,12 +417,12 @@
 "tvba12.png"
 "tvba17.png"
 "tvba67.png"
-"ic603.png"
+"ic603.png",
 "黄金翡翠台.png"
-"翡翠台.png"
-"明珠台.png"
+"翡翠台.png",
+"明珠台.png",
 "dreamworks.png"
 "mo澳視澳門.png",   
 "mo澳視葡文.png",    
-   ]
+]
 
