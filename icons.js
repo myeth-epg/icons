@@ -160,7 +160,7 @@
 "my100.png",
 "my105.png",
 "my200.png",
-"my201.png:,
+"my201.png",
 "my202.png",
 "my203.png",
 "my205.png",
