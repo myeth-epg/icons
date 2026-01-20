@@ -25,6 +25,8 @@
 "eltasportsmax6.png",
 "eltasportsmax7.png",
 "eltasportsmax8.png",
+"愛爾達綜合.png",
+"愛爾達影劇台.png",
 "now96.png",
 "now99.png",
 "now102.png",
