@@ -1,4 +1,6 @@
 [
+"bbcearth.png",
+"bbclifestyle.png",
 "bs1.png",
 "bs2.png",
 "bs3.png",
