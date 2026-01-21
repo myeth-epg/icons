@@ -467,8 +467,9 @@
 "mo94.png",   
 "mo96.png",
 "mo96.png",   
-"鳳凰電影.png"
-
+"鳳凰電影.png",
+"ccm.png".
+"天映頻道.png"
   
 ]
 
