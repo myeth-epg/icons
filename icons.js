@@ -28,6 +28,8 @@
 "愛爾達綜合.png",
 "愛爾達影劇台.png",
 "愛爾達娛樂.png",
+"愛爾達日韓.png",
+"愛爾達ELTA.png",
 "now96.png",
 "now99.png",
 "now102.png",
