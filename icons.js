@@ -485,6 +485,8 @@
 "c00016.png",
 "c00017.png",
 "c0005+.png", 
+"spotv.png", 
+"spotv2.png",  
 "鳳凰電影.png",
 "ccm.png",
 "cm+.png",
