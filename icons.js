@@ -3,6 +3,7 @@
 "bbcearth.png",
 "bbclifestyle.png",
  "discoveryasia.png",
+ "discoverychannel.png",
 "bs1.png",
 "bs2.png",
 "bs3.png",
