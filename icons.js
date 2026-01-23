@@ -1,5 +1,6 @@
 [
 "axn.png",
+ "animax.png",
 "bbcearth.png",
 "bbclifestyle.png",
  "discoveryasia.png",
