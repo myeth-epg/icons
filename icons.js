@@ -1,5 +1,10 @@
 [
-"axn.png",
+ "itv1.png",
+ "itv2.png",
+ "itv3.png",
+ "itv4.png",
+ "itvbe.png",
+ "axn.png",
  "animax.png",
 "bbcearth.png",
 "bbclifestyle.png",
