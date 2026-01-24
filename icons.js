@@ -1,4 +1,6 @@
 [
+ "skysportsnews.png",
+ "skysportsmainevent.png",
  "itv1.png",
  "itv2.png",
  "itv3.png",
