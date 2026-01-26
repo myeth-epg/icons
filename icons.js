@@ -1,5 +1,10 @@
 [
  "tvn.png",
+"tvndrama.png",
+"tvnsports.png",
+"tvnshow.png",
+"tvnstory.png",
+"tvnmovies.png", 
  "ssnews.png",
  "ssmainevent.png",
  "sstennis.png",
