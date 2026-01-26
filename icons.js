@@ -1,5 +1,5 @@
 [
- "skysportsnews.png",
+ "ssnews.png",
  "skysportsmainevent.png",
  "skysportstennis.png",
 "skysportsmix.png",
