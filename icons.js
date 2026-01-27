@@ -1,5 +1,11 @@
 [
- "tvn.png",
+ "tv1.png",
+ "tv2.png",
+ "tv3.png",
+ "8tv.png",
+" phoenixhk.png",
+ "phoenixtv.png",
+  "tvn.png",
 "tvndrama.png",
 "tvnsports.png",
 "tvnshow.png",
