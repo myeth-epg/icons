@@ -1,4 +1,18 @@
 [
+
+"lovenature.png",
+"france24.png",
+"arirang.png",
+"dw.png",
+"ginxtv.png",
+"history.png",
+"luxetv.png",
+"nickjr.png",
+ "cartoonnetwork.png",
+"cnn.png",
+"afn.png",
+"cna.png",
+"warnertv.png",
  "tv1.png",
  "tv2.png",
  "tv3.png",
