@@ -17,6 +17,7 @@
  "tv2.png",
  "tv3.png",
  "8tv.png",
+ "bernamatv.png",
 " phoenixhk.png",
  "phoenixtv.png",
   "tvn.png",
