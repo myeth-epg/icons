@@ -1,4 +1,13 @@
 [
+"hits.png",
+"hitsnow.png",
+"hitsmovies.png",
+"moonbug.png",
+"cgtn.png",
+"nickelodeon.png",
+"nowrock.png",
+"now70.png",
+"now80.png",
 "animalplanet.png",
 "lovenature.png",
 "france24.png",
