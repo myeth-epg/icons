@@ -1,4 +1,9 @@
 [
+"kbsworld.png",
+ "kbs1.png",
+"kbs2.png",
+"kbsw.png",
+"kbssports.png",
  "momotv.png",
 "hits.png",
 "hitsnow.png",
