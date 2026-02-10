@@ -1,4 +1,13 @@
 [
+"skysport1.nz.png",
+"skysport2.nz.png",
+"skysport3.nz.png",
+"skysport4.nz.png",
+"skysport5.nz.png",
+"skysport6.nz.png",
+"skysport7.nz.png",
+"skysport8.nz.png",
+"skysport9.nz.png",
 "kbsworld.png",
  "kbs1.png",
 "kbs2.png",
