@@ -1,4 +1,6 @@
 [
+ "cnbc.png",
+ "cgtn.png",
  "fight.sports.png",
   "tntsports1.png",
  "tntsports2.png",
