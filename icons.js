@@ -81,6 +81,7 @@
  "bernamatv.png",
 " phoenixhk.png",
  "phoenixtv.png",
+  "phoenix.info.png",
   "tvn.png",
 "tvndrama.png",
 "tvnsports.png",
