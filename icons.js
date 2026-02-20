@@ -1,4 +1,10 @@
 [
+
+"gmapinoytv.png",
+"gmanews.png",
+"gmalifetv.png",
+"abscbn.png",
+"abscbnnews.png",
  "kudada.png",
  "crime.png",
  "cnbc.png",
