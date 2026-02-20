@@ -5,6 +5,7 @@
 "gmalifetv.png",
 "abscbn.png",
 "abscbnnews.png",
+ "wion.png",
  "kudada.png",
  "crime.png",
  "cnbc.png",
