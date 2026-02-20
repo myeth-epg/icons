@@ -12,6 +12,7 @@
 "zee.tamil.png",
 "adithyatv.png",
 "sunmusic.png",
+ "timesnow.png",
 "asianet.png",
  "asianet.movies.png",
 "gmapinoytv.png",
