@@ -1,5 +1,6 @@
 [
-
+"asianet.png",
+ "asianet.movies.png",
 "gmapinoytv.png",
 "gmanews.png",
 "gmalifetv.png",
