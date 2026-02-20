@@ -1,4 +1,9 @@
 [
+"dragontv.png",
+"star.maa.png",
+"star.gold.png",
+"star.plus.png",
+"star.bharat.png",
 "asianet.png",
  "asianet.movies.png",
 "gmapinoytv.png",
