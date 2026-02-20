@@ -7,6 +7,7 @@
 "abscbn.png",
 "abscbnnews.png",
  "wion.png",
+ "zoomtv.png",
  "kudada.png",
  "crime.png",
  "cnbc.png",
