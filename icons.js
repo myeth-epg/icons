@@ -599,6 +599,7 @@
 "tvba12.png"
 "tvba17.png"
 "tvba67.png"
+"tvb.xinghe.png",
 "ic603.png",
 "黄金翡翠台.png"
 "翡翠台.png",
