@@ -1,4 +1,5 @@
 [
+ "lifetime.png",
  "bbc.news.png",
  "kplus.png",
 "dragontv.png",
