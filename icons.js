@@ -2,6 +2,7 @@
  "東森新聞.png",
  "東森財經新聞台.png",
   "momotv.png",
+ "wbc2026.png",
  "lifetime.png",
  "bbc.news.png",
  "kplus.png",
