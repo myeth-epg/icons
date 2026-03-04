@@ -1,6 +1,7 @@
 [
  "東森新聞.png",
  "東森財經新聞台.png",
+  "momotv.png",
  "lifetime.png",
  "bbc.news.png",
  "kplus.png",
@@ -78,7 +79,7 @@
 "kbs2.png",
 "kbsw.png",
 "kbssports.png",
- "momotv.png",
+
 "hits.png",
 "hitsnow.png",
 "hitsmovies.png",
@@ -383,7 +384,6 @@
 "t01.png",
 "t02.png",
 "t03.png",
-"t04東森新聞.png",
 "t05.png",
 "t06.png",
 "t07.png",
