@@ -1,4 +1,6 @@
 [
+ "東森新聞.png",
+ "東森財經新聞台.png",
  "lifetime.png",
  "bbc.news.png",
  "kplus.png",
