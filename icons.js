@@ -1,4 +1,7 @@
 [
+ "tvb1.png",
+ "tvbe.png",
+ "tvbdrama.png",
  "東森新聞.png",
  "東森財經新聞台.png",
   "momotv.png",
