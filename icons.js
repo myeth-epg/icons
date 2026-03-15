@@ -1,5 +1,9 @@
 [
- "tvb1.png",
+ "astro.showtime.png",
+ "astro.showcase.png",
+"rockxstream.png",
+"seti.png",
+  "tvb1.png",
  "tvbj1.png",
  "tvbe.png",
  "tvbdrama.png",
