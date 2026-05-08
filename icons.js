@@ -650,5 +650,7 @@
 "cm+.png",
 "天映頻道.png"
  "華視新聞.png" 
+ "NHKWorldJapan.png" 
+ "NHKWorldPremium.png" 
 ]
 
