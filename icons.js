@@ -652,5 +652,7 @@
  "華視新聞.png" 
  "NHKWorldJapan.png" 
  "NHKWorldPremium.png" 
+ "愛爾達寵物運動台.png" 
+
 ]
 
