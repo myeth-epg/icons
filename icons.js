@@ -1,4 +1,10 @@
 [
+"SUPERSports.png",
+"真情SUPER煲.png",
+"SUPER亞視劇.png",
+"SUPER煲劇.png",
+"SUPER驚.png",
+"SUPERMusic.png",
 "mytvsuper-free.png",
 "mytvsuper-super獎門人.png",
 "mytvsuper-eyt.png",
