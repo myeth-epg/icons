@@ -1,4 +1,8 @@
 [
+
+"Hami體育1.png",
+"Hami體育2.png",
+"Hami體育3.png",
  "astro.showtime.png",
  "astro.showcase.png",
 "rockxstream.png",
