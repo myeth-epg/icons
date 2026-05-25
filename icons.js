@@ -1,4 +1,5 @@
 [
+ "黃金翡翠台.png",
 "SUPERSports.png",
 "真情SUPER煲.png",
 "SUPER亞視劇.png",
