@@ -16,7 +16,7 @@
 "mytvsuper-free.png",
 "mytvsuper-super獎門人.png",
 "mytvsuper-eyt.png",
-"mytvsuper-super識食.png,
+"mytvsuper-super識食.png",
 "mytvsuper-superfun.png",
 "Hami體育1.png",
 "Hami體育2.png",
