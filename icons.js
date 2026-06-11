@@ -1,4 +1,8 @@
 [
+ "Hami足球1.png",
+ "Hami足球2.png",
+ "Mediacorp.FIFA1.png",
+ "Mediacorp.FIFA2.png",
  "黃金翡翠台.png",
 "SUPERSports.png",
 "真情SUPER煲.png",
