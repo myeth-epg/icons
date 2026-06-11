@@ -1,6 +1,6 @@
 [
 "Unifi.FIFA.1.png",
-"Unifi.FIFA.2.png,
+"Unifi.FIFA.2.png",
 "Unifi.FIFA.3.png", 
  "Hami足球1.png",
  "Hami足球2.png",
