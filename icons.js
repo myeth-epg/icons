@@ -1,4 +1,5 @@
 [
+  "ls_times.png",
   "nowlucky688.png",
  "eltasportsmax9.png",
  "eltasportsmax10.png",
