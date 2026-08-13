@@ -1,4 +1,6 @@
 [
+  "FairchildTV1.png",
+  "FairchildTV2.png,
   "ls_times.png",
   "nowlucky688.png",
  "eltasportsmax9.png",
