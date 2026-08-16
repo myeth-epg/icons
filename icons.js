@@ -1,4 +1,6 @@
 [
+  "eurosport1.png",
+  "eurosport2.png",
   "FairchildTV1.png",
   "FairchildTV2.png,
   "ls_times.png",
