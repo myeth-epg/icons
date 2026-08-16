@@ -1,4 +1,5 @@
 [
+  "eurosport.png",
   "eurosport1.png",
   "eurosport2.png",
   "FairchildTV1.png",
