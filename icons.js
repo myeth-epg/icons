@@ -1,4 +1,8 @@
 [
+   "astro.prima.png",
+   "berita.rtm.png",
+   "sukan+.png",
+   "premiersports.png",  
    "空中英語教室.png",
   "eurosport.png",
   "eurosport1.png",
